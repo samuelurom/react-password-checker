@@ -13,12 +13,12 @@ A user-friendly web application that assesses and provides feedback on the stren
 
 ## Built With
 
-React/JavaScript
-Vite
+- React/JavaScript
+- Vite
 
 ## Live Demo
 
-Live link
+https://react-password-checker.vercel.app/
 
 ## Prerequisites
 
@@ -31,13 +31,13 @@ To set up a development environment:
 1. Clone the repository
 
 ```sh
-git clone https://github.com/samuelurom/credit-card-detector
+git clone https://github.com/samuelurom/react-password-checker.git
 ```
 
 2. Navigate to the project directory
 
 ```sh
-cd credit-card-detector
+cd react-password-checker
 ```
 
 3. Install dependencies
