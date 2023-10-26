@@ -9,7 +9,8 @@ A user-friendly web application that assesses and provides feedback on the stren
 
 - secure password input field
 - toggle to view or hide the password
-- real-time feedback on password strength.
+- real-time feedback on password
+- password strength bar
 
 ## Built With
 
