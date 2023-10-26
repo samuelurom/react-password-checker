@@ -1,0 +1,16 @@
+/* bar */
+.bar-wrapper {
+  background-color: #ddd;
+  position: relative;
+  margin-bottom: 20px;
+  border-radius: 0 0 5px 5px;
+  overflow: hidden;
+  transform: translateY(-3px);
+}
+
+.bar {
+  background-color: teal;
+  width: 30%;
+  height: 6px;
+  transition: all 0.3s linear;
+}
