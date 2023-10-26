@@ -28,12 +28,12 @@ h1 {
   margin: 0 0 30px;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 600px) {
   .container {
-    width: 100%;
     border-radius: 0;
     border: none;
     box-shadow: none;
     padding: 20px;
+    margin: 20px;
   }
 }
